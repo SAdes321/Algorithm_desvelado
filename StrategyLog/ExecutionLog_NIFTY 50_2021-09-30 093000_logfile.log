@@ -1,0 +1,1054 @@
+
+-----------------------------New start-----------------------
+
+Index Price is 17663.9
+Data for NIFTY30SEP2117650CE is {'_id': ObjectId('615dc9a984883e4e9d25e896'), 'ti': 1632974400, 'o': 56.7, 'h': 57.55, 'l': 53.35, 'c': 57.55, 'v': 441750, 'oi': 1193450, 'sym': 'NIFTY30SEP2117650CE'}
+Data for NIFTY30SEP2117650PE is {'_id': ObjectId('615dc9e784883e4e9d2d2737'), 'ti': 1632974400, 'o': 50.35, 'h': 52.5, 'l': 47.8, 'c': 47.8, 'v': 759150, 'oi': 2220650, 'sym': 'NIFTY30SEP2117650PE'}
+Loss limit -1053.5
+Target Pnl is 2107.0
+------------Time 2021-09-30 09:30:00---------------
+Current Unrealized Pnl: -0.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:31:00---------------
+Current Unrealized Pnl: -12.500000000000355
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:32:00---------------
+Current Unrealized Pnl: 19.999999999999943
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:33:00---------------
+Current Unrealized Pnl: -15.000000000000227
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:34:00---------------
+Current Unrealized Pnl: -17.500000000000398
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:35:00---------------
+Current Unrealized Pnl: -52.50000000000057
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:36:00---------------
+Current Unrealized Pnl: -50.00000000000034
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:37:00---------------
+Current Unrealized Pnl: -40.000000000000455
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:38:00---------------
+Current Unrealized Pnl: -25.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:39:00---------------
+Current Unrealized Pnl: -95.00000000000068
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:40:00---------------
+Current Unrealized Pnl: -265.0000000000002
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:41:00---------------
+Current Unrealized Pnl: -217.50000000000068
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:42:00---------------
+Current Unrealized Pnl: -245.00000000000068
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:43:00---------------
+Current Unrealized Pnl: -202.50000000000068
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:44:00---------------
+Current Unrealized Pnl: -5.000000000000227
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:45:00---------------
+Current Unrealized Pnl: -202.50000000000023
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:46:00---------------
+Current Unrealized Pnl: -147.50000000000045
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:47:00---------------
+Current Unrealized Pnl: -285.00000000000045
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:48:00---------------
+Current Unrealized Pnl: -352.5000000000002
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:49:00---------------
+Current Unrealized Pnl: -192.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:50:00---------------
+Current Unrealized Pnl: -85.00000000000045
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:51:00---------------
+Current Unrealized Pnl: -130.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:52:00---------------
+Current Unrealized Pnl: -32.50000000000068
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:53:00---------------
+Current Unrealized Pnl: -57.500000000000455
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:54:00---------------
+Current Unrealized Pnl: 59.999999999999886
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:55:00---------------
+Current Unrealized Pnl: 94.99999999999989
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:56:00---------------
+Current Unrealized Pnl: 47.49999999999943
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:57:00---------------
+Current Unrealized Pnl: 32.499999999999886
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:58:00---------------
+Current Unrealized Pnl: 39.99999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 09:59:00---------------
+Current Unrealized Pnl: -45.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:00:00---------------
+Current Unrealized Pnl: -37.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:01:00---------------
+Current Unrealized Pnl: 34.99999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:02:00---------------
+Current Unrealized Pnl: 94.99999999999989
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:03:00---------------
+Current Unrealized Pnl: 152.49999999999966
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:04:00---------------
+Current Unrealized Pnl: 64.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:05:00---------------
+Current Unrealized Pnl: -35.000000000000455
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:06:00---------------
+Current Unrealized Pnl: 89.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:07:00---------------
+Current Unrealized Pnl: 82.49999999999932
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:08:00---------------
+Current Unrealized Pnl: 72.49999999999989
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:09:00---------------
+Current Unrealized Pnl: 107.49999999999989
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:10:00---------------
+Current Unrealized Pnl: 52.49999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:11:00---------------
+Current Unrealized Pnl: 87.49999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:12:00---------------
+Current Unrealized Pnl: 47.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:13:00---------------
+Current Unrealized Pnl: 134.99999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:14:00---------------
+Current Unrealized Pnl: 139.99999999999966
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:15:00---------------
+Current Unrealized Pnl: 164.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:16:00---------------
+Current Unrealized Pnl: 357.4999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:17:00---------------
+Current Unrealized Pnl: 279.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:18:00---------------
+Current Unrealized Pnl: 294.9999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:19:00---------------
+Current Unrealized Pnl: 279.9999999999997
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:20:00---------------
+Current Unrealized Pnl: 275.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:21:00---------------
+Current Unrealized Pnl: 254.99999999999932
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:22:00---------------
+Current Unrealized Pnl: 282.4999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:23:00---------------
+Current Unrealized Pnl: 250.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:24:00---------------
+Current Unrealized Pnl: 79.99999999999972
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:25:00---------------
+Current Unrealized Pnl: 114.99999999999989
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:26:00---------------
+Current Unrealized Pnl: 175.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:27:00---------------
+Current Unrealized Pnl: 167.49999999999932
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:28:00---------------
+Current Unrealized Pnl: 197.49999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:29:00---------------
+Current Unrealized Pnl: 194.99999999999966
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:30:00---------------
+Current Unrealized Pnl: 237.49999999999966
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:31:00---------------
+Current Unrealized Pnl: 237.49999999999966
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:32:00---------------
+Current Unrealized Pnl: 267.4999999999997
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:33:00---------------
+Current Unrealized Pnl: 250.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:34:00---------------
+Current Unrealized Pnl: 197.49999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:35:00---------------
+Current Unrealized Pnl: 257.49999999999966
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:36:00---------------
+Current Unrealized Pnl: 204.9999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:37:00---------------
+Current Unrealized Pnl: 264.9999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:38:00---------------
+Current Unrealized Pnl: 212.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:39:00---------------
+Current Unrealized Pnl: 224.99999999999943
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:40:00---------------
+Current Unrealized Pnl: 234.99999999999943
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:41:00---------------
+Current Unrealized Pnl: 224.99999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:42:00---------------
+Current Unrealized Pnl: 357.4999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:43:00---------------
+Current Unrealized Pnl: 282.4999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:44:00---------------
+Current Unrealized Pnl: 277.4999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:45:00---------------
+Current Unrealized Pnl: 289.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:46:00---------------
+Current Unrealized Pnl: 257.4999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:47:00---------------
+Current Unrealized Pnl: 217.49999999999932
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:48:00---------------
+Current Unrealized Pnl: 224.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:49:00---------------
+Current Unrealized Pnl: 292.49999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:50:00---------------
+Current Unrealized Pnl: 282.4999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:51:00---------------
+Current Unrealized Pnl: 202.49999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:52:00---------------
+Current Unrealized Pnl: 302.5000000000001
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:53:00---------------
+Current Unrealized Pnl: 324.99999999999943
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:54:00---------------
+Current Unrealized Pnl: 352.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:55:00---------------
+Current Unrealized Pnl: 294.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:56:00---------------
+Current Unrealized Pnl: 314.9999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:57:00---------------
+Current Unrealized Pnl: 354.9999999999993
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:58:00---------------
+Current Unrealized Pnl: 399.99999999999943
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 10:59:00---------------
+Current Unrealized Pnl: 329.9999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:00:00---------------
+Current Unrealized Pnl: 302.49999999999966
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:01:00---------------
+Current Unrealized Pnl: 342.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:02:00---------------
+Current Unrealized Pnl: 299.99999999999966
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:03:00---------------
+Current Unrealized Pnl: 254.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:04:00---------------
+Current Unrealized Pnl: 282.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:05:00---------------
+Current Unrealized Pnl: 282.49999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:06:00---------------
+Current Unrealized Pnl: 277.4999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:07:00---------------
+Current Unrealized Pnl: 347.4999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:08:00---------------
+Current Unrealized Pnl: 332.4999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:09:00---------------
+Current Unrealized Pnl: 419.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:10:00---------------
+Current Unrealized Pnl: 387.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:11:00---------------
+Current Unrealized Pnl: 389.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:12:00---------------
+Current Unrealized Pnl: 414.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:13:00---------------
+Current Unrealized Pnl: 394.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:14:00---------------
+Current Unrealized Pnl: 425.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:15:00---------------
+Current Unrealized Pnl: 437.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:16:00---------------
+Current Unrealized Pnl: 409.9999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:17:00---------------
+Current Unrealized Pnl: 417.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:18:00---------------
+Current Unrealized Pnl: 432.4999999999993
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:19:00---------------
+Current Unrealized Pnl: 430.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:20:00---------------
+Current Unrealized Pnl: 364.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:21:00---------------
+Current Unrealized Pnl: 342.4999999999993
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:22:00---------------
+Current Unrealized Pnl: 254.99999999999966
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:23:00---------------
+Current Unrealized Pnl: 232.49999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:24:00---------------
+Current Unrealized Pnl: 257.4999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:25:00---------------
+Current Unrealized Pnl: 249.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:26:00---------------
+Current Unrealized Pnl: 222.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:27:00---------------
+Current Unrealized Pnl: 119.99999999999932
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:28:00---------------
+Current Unrealized Pnl: 155.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:29:00---------------
+Current Unrealized Pnl: 109.99999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:30:00---------------
+Current Unrealized Pnl: -52.50000000000023
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:31:00---------------
+Current Unrealized Pnl: 92.49999999999932
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:32:00---------------
+Current Unrealized Pnl: 89.99999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:33:00---------------
+Current Unrealized Pnl: 124.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:34:00---------------
+Current Unrealized Pnl: 147.49999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:35:00---------------
+Current Unrealized Pnl: 309.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:36:00---------------
+Current Unrealized Pnl: 334.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:37:00---------------
+Current Unrealized Pnl: 282.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:38:00---------------
+Current Unrealized Pnl: 282.49999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:39:00---------------
+Current Unrealized Pnl: 112.49999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:40:00---------------
+Current Unrealized Pnl: 274.9999999999993
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:41:00---------------
+Current Unrealized Pnl: 177.49999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:42:00---------------
+Current Unrealized Pnl: 154.99999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:43:00---------------
+Current Unrealized Pnl: 125.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:44:00---------------
+Current Unrealized Pnl: 274.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:45:00---------------
+Current Unrealized Pnl: 147.49999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:46:00---------------
+Current Unrealized Pnl: 177.49999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:47:00---------------
+Current Unrealized Pnl: 92.50000000000023
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:48:00---------------
+Current Unrealized Pnl: 230.00000000000023
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:49:00---------------
+Current Unrealized Pnl: 295.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:50:00---------------
+Current Unrealized Pnl: 172.49999999999932
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:51:00---------------
+Current Unrealized Pnl: 172.49999999999932
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:52:00---------------
+Current Unrealized Pnl: 269.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:53:00---------------
+Current Unrealized Pnl: 190.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:54:00---------------
+Current Unrealized Pnl: 169.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:55:00---------------
+Current Unrealized Pnl: 220.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:56:00---------------
+Current Unrealized Pnl: 227.49999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:57:00---------------
+Current Unrealized Pnl: 227.49999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:58:00---------------
+Current Unrealized Pnl: 239.99999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 11:59:00---------------
+Current Unrealized Pnl: 294.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:00:00---------------
+Current Unrealized Pnl: 124.99999999999932
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:01:00---------------
+Current Unrealized Pnl: 100.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:02:00---------------
+Current Unrealized Pnl: 130.00000000000023
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:03:00---------------
+Current Unrealized Pnl: -94.99999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:04:00---------------
+Current Unrealized Pnl: 22.499999999999773
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:05:00---------------
+Current Unrealized Pnl: -12.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:06:00---------------
+Current Unrealized Pnl: 87.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:07:00---------------
+Current Unrealized Pnl: 59.99999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:08:00---------------
+Current Unrealized Pnl: 72.49999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:09:00---------------
+Current Unrealized Pnl: 129.99999999999932
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:10:00---------------
+Current Unrealized Pnl: 239.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:11:00---------------
+Current Unrealized Pnl: 312.49999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:12:00---------------
+Current Unrealized Pnl: 214.99999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:13:00---------------
+Current Unrealized Pnl: 160.00000000000023
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:14:00---------------
+Current Unrealized Pnl: 109.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:15:00---------------
+Current Unrealized Pnl: 234.99999999999977
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:16:00---------------
+Current Unrealized Pnl: 517.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:17:00---------------
+Current Unrealized Pnl: 574.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:18:00---------------
+Current Unrealized Pnl: 447.5000000000002
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:19:00---------------
+Current Unrealized Pnl: 404.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:20:00---------------
+Current Unrealized Pnl: 412.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:21:00---------------
+Current Unrealized Pnl: 487.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:22:00---------------
+Current Unrealized Pnl: 414.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:23:00---------------
+Current Unrealized Pnl: 467.49999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:24:00---------------
+Current Unrealized Pnl: 512.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:25:00---------------
+Current Unrealized Pnl: 410.0000000000002
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:26:00---------------
+Current Unrealized Pnl: 379.99999999999955
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:27:00---------------
+Current Unrealized Pnl: 417.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:28:00---------------
+Current Unrealized Pnl: 672.4999999999993
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:29:00---------------
+Current Unrealized Pnl: 599.9999999999993
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:30:00---------------
+Current Unrealized Pnl: 1009.9999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:31:00---------------
+Current Unrealized Pnl: 1124.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:32:00---------------
+Current Unrealized Pnl: 1112.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:33:00---------------
+Current Unrealized Pnl: 1147.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:34:00---------------
+Current Unrealized Pnl: 1187.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:35:00---------------
+Current Unrealized Pnl: 862.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:36:00---------------
+Current Unrealized Pnl: 1022.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:37:00---------------
+Current Unrealized Pnl: 867.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:38:00---------------
+Current Unrealized Pnl: 949.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:39:00---------------
+Current Unrealized Pnl: 972.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:40:00---------------
+Current Unrealized Pnl: 630.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:41:00---------------
+Current Unrealized Pnl: 820.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:42:00---------------
+Current Unrealized Pnl: 882.4999999999997
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:43:00---------------
+Current Unrealized Pnl: 987.4999999999997
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:44:00---------------
+Current Unrealized Pnl: 969.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:45:00---------------
+Current Unrealized Pnl: 894.9999999999999
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:46:00---------------
+Current Unrealized Pnl: 897.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:47:00---------------
+Current Unrealized Pnl: 977.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:48:00---------------
+Current Unrealized Pnl: 1079.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:49:00---------------
+Current Unrealized Pnl: 949.9999999999997
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:50:00---------------
+Current Unrealized Pnl: 1009.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:51:00---------------
+Current Unrealized Pnl: 1109.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:52:00---------------
+Current Unrealized Pnl: 1294.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:53:00---------------
+Current Unrealized Pnl: 1319.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:54:00---------------
+Current Unrealized Pnl: 1297.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:55:00---------------
+Current Unrealized Pnl: 1354.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:56:00---------------
+Current Unrealized Pnl: 1417.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:57:00---------------
+Current Unrealized Pnl: 1357.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:58:00---------------
+Current Unrealized Pnl: 1382.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 12:59:00---------------
+Current Unrealized Pnl: 1452.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:00:00---------------
+Current Unrealized Pnl: 1484.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:01:00---------------
+Current Unrealized Pnl: 1482.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:02:00---------------
+Current Unrealized Pnl: 1607.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:03:00---------------
+Current Unrealized Pnl: 1547.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:04:00---------------
+Current Unrealized Pnl: 1557.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:05:00---------------
+Current Unrealized Pnl: 1599.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:06:00---------------
+Current Unrealized Pnl: 1637.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:07:00---------------
+Current Unrealized Pnl: 1682.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:08:00---------------
+Current Unrealized Pnl: 1542.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:09:00---------------
+Current Unrealized Pnl: 1599.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:10:00---------------
+Current Unrealized Pnl: 1629.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:11:00---------------
+Current Unrealized Pnl: 1634.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:12:00---------------
+Current Unrealized Pnl: 1609.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:13:00---------------
+Current Unrealized Pnl: 1624.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:14:00---------------
+Current Unrealized Pnl: 1370.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:15:00---------------
+Current Unrealized Pnl: 1575.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:16:00---------------
+Current Unrealized Pnl: 1492.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:17:00---------------
+Current Unrealized Pnl: 1565.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:18:00---------------
+Current Unrealized Pnl: 1357.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:19:00---------------
+Current Unrealized Pnl: 1185.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:20:00---------------
+Current Unrealized Pnl: 992.4999999999993
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:21:00---------------
+Current Unrealized Pnl: 1059.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:22:00---------------
+Current Unrealized Pnl: 1124.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:23:00---------------
+Current Unrealized Pnl: 1332.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:24:00---------------
+Current Unrealized Pnl: 1457.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:25:00---------------
+Current Unrealized Pnl: 1314.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:26:00---------------
+Current Unrealized Pnl: 1169.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:27:00---------------
+Current Unrealized Pnl: 1662.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:28:00---------------
+Current Unrealized Pnl: 1622.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:29:00---------------
+Current Unrealized Pnl: 1802.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:30:00---------------
+Current Unrealized Pnl: 1695.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:31:00---------------
+Current Unrealized Pnl: 1852.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:32:00---------------
+Current Unrealized Pnl: 1772.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:33:00---------------
+Current Unrealized Pnl: 1764.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:34:00---------------
+Current Unrealized Pnl: 1567.4999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:35:00---------------
+Current Unrealized Pnl: 1744.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:36:00---------------
+Current Unrealized Pnl: 1509.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:37:00---------------
+Current Unrealized Pnl: 1532.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:38:00---------------
+Current Unrealized Pnl: 1589.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:39:00---------------
+Current Unrealized Pnl: 1434.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:40:00---------------
+Current Unrealized Pnl: 1597.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:41:00---------------
+Current Unrealized Pnl: 1265.0
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:42:00---------------
+Current Unrealized Pnl: 1464.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:43:00---------------
+Current Unrealized Pnl: 1674.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:44:00---------------
+Current Unrealized Pnl: 1619.9999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:45:00---------------
+Current Unrealized Pnl: 1679.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:46:00---------------
+Current Unrealized Pnl: 1997.4999999999995
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:47:00---------------
+Current Unrealized Pnl: 1789.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:48:00---------------
+Current Unrealized Pnl: 1864.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:49:00---------------
+Current Unrealized Pnl: 1984.9999999999998
+Current Realized Pnl: 0
+Current Net Pnl: 0
+------------Time 2021-09-30 13:50:00---------------
+Current Unrealized Pnl: 2107.5
+Current Realized Pnl: 0
+Current Net Pnl: 0
+Target hit hit
+Net pnl for the day is 2107.5

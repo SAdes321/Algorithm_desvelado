@@ -1,0 +1,25 @@
+OHLC Candle data is stored in MongoDB as follows - 
+
+dbName = "OHLC_MINUTE_{timeframe}"
+collection = Data
+
+Sample document - 
+
+{'_id': ObjectId('614b4246a48e795a4a501168'), 
+'ti': 1631159400,
+'o': 17345.95,
+'h': 17347.25, 
+'l': 17337.95, 
+'c': 17338.5, 
+'v': 0, 
+'oi': 0, 
+'sym': 'NIFTY 50'}
+
+ti - Timestamp in epoch
+o - Open
+h - High
+l - Low
+c - Close
+v - Volume
+oi - OpenInterest
+sym - SymbolName
